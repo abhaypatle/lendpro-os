@@ -1,0 +1,5 @@
+[functions.api-keys]
+verify_jwt = true
+
+[functions.protected-resource]
+verify_jwt = false
